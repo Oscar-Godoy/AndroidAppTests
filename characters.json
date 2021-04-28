@@ -2,5 +2,7 @@
 {'name':'Jon Snow', 'hobby': 'Knowing nothing', 'age':'20', 'phone':'0000', 'address':'Winterfell'},
 {'name':'Walter White', 'hobby': 'Drug Dealing', 'age':'50', 'phone':'0000', 'address':'New Mexico'},
 {'name':'Iron Man', 'hobby': 'Engineering', 'age':'40', 'phone':'0000', 'address':'Stark Tower, NY'},
-{'name':'Bilbo Baggins', 'hobby': 'Adventures!', 'age':'111', 'phone':'0000', 'address':'Bags End'}
+{'name':'Bilbo Baggins', 'hobby': 'Adventures!', 'age':'111', 'phone':'0000', 'address':'Bags End'},
+{'name':'Luke Skywalker', 'hobby': 'Flying', 'age':'19', 'phone':'0000', 'address':'Tatooine'},
+{'name':'Indiana Jones', 'hobby': 'Exploring', 'age':'45', 'phone':'0000', 'address':'Washington'}
 ]
